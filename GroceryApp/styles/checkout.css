@@ -1,0 +1,11 @@
+.form{
+    text-align: center;
+    margin-top: 40px;
+}
+.form input{
+    padding: 5px;
+    width: 200px;
+}
+#order-message{
+    text-align: center;
+}
